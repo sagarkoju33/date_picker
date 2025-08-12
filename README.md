@@ -148,4 +148,6 @@ dependencies:
 
 ## Output
 
-<img src="https://github.com/sagarkoju33/date_picker/blob/main/assets/output.png" alt="Success Status" width="300" height="540">
+<!-- ![Success Status](https://github.com/sagarkoju33/journey-stepper/raw/main/assets/output.png) -->
+
+<img src="https://github.com/sagarkoju33/date_picker/raw/3be9de8a9714d3362fca7c7d10c1cbd12c04a978/assets/output.png" alt="Success Status" width="300" height="540">
