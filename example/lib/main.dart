@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:date_picker_calendar/calendar_view/calendar_view.dart';
-import 'package:date_picker_calendar/helper/dialog_helper.dart';
+import 'package:date_picker_custom/calendar_view/calendar_view.dart';
+import 'package:date_picker_custom/helper/dialog_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';

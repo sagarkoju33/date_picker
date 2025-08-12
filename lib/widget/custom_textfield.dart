@@ -1,6 +1,6 @@
 // ignore_for_file: must_be_immutable
 
-import 'package:date_picker_calendar/colors/colors.dart';
+import 'package:date_picker_custom/colors/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

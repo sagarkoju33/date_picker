@@ -108,13 +108,13 @@ For specific calendar systems, third-party packages or custom implementations ar
 
 ```dart
 dependencies:
-  date_picker_calendar: ^0.0.1
+  date_picker_custom: ^0.0.1
 ```
 
 2. Import the package and use it in your Flutter App.
 
 ```dart
-  import 'package:date_picker_calendar/date_picker_calendar.dart';
+  import 'package:date_picker_custom/date_picker_custom.dart';
 ```
 
 ## Usage
