@@ -148,4 +148,4 @@ dependencies:
 
 ## Output
 
-<img src="https://github.com/sagarkoju33/date_picker/raw/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="300" height="540">
+<img src="https://github.com/sagarkoju33/date_picker/blob/main/assets/output.png" alt="Success Status" width="300" height="540">
