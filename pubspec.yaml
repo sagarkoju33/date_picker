@@ -1,7 +1,7 @@
-name: custom_date_picker
+name: _date_picker_calendar
 description: "A Date Picker is a user interface component or widget that allows users to select a specific date (day, month, year) from a calendar or a set of input fields. Instead of typing the date manually, users can pick it easily and accurately, reducing errors and improving the user experience."
 version: 0.0.1-dev.1
-repository: https://github.com/sagarkoju33/custom_date_picker
+repository: https://github.com/sagarkoju33/date_picker
 
 environment:
   sdk: ^3.8.1
