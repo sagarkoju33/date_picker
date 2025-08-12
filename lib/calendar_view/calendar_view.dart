@@ -255,7 +255,7 @@ class CustomDatePickerDialogState extends State<CustomDatePickerDialog> {
                           widget.inputFieldOnChanged?.call(p0);
                         },
                         customValidator: (value) {
-                          widget.inputFieldCustomValidation?.call(value);
+                          return widget.inputFieldCustomValidation?.call(value);
                         },
                       ),
                     ),
