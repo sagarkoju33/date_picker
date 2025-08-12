@@ -1,6 +1,6 @@
 //*these date picker are made custom to show the label based on the dd-mm-yyyy on the custom textField on the edit icon of the calendar*/
-import 'package:date_picker/colors/colors.dart';
-import 'package:date_picker/widget/custom_textfield.dart';
+import 'package:custom_date_picker/colors/colors.dart';
+import 'package:custom_date_picker/widget/custom_textfield.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
