@@ -1,7 +1,7 @@
 name: date_picker
 description: "A new Flutter package project."
 version: 0.0.1
-repository: https://github.com/sagarkoju33/livephotocapture
+repository: https://github.com/sagarkoju33/date_picker
 
 environment:
   sdk: ^3.8.1
@@ -23,8 +23,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 
 # To add assets to your package, add an assets section, like this:
-# assets:
-#   - images/a_dot_burr.jpeg
+assets:
+  - assets/
 #   - images/a_dot_ham.jpeg
 #
 # For details regarding assets in packages, see
